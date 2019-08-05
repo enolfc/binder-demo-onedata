@@ -4,6 +4,7 @@ channels:
 dependencies:
 - python
 - numpy
+- xarray
 - pip
 - pip:
   - git+https://github.com/enolfc/egi-hub-addons
