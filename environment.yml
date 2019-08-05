@@ -3,8 +3,10 @@ channels:
 - conda-forge
 dependencies:
 - python
-- numpy
 - xarray
+- numpy
+- scipy
+- matplotlib
 - pip
 - pip:
   - git+https://github.com/enolfc/egi-hub-addons
