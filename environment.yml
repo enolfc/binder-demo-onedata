@@ -1,0 +1,11 @@
+name: demo-onedata 
+channels:
+- conda-forge
+dependencies:
+- python
+- numpy
+- pip
+- pip:
+  - git+https://github.com/onedata/fs-onedatafs 
+  - git+https://github.com/onedata/onedatafs-jupyter
+  - git+https://github.com/enolfc/onedatafs
