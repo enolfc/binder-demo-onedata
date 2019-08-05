@@ -6,6 +6,6 @@ dependencies:
 - numpy
 - pip
 - pip:
-  - git+https://github.com/onedata/fs-onedatafs 
+  - git+https://github.com/enolfc/fs-onedatafs@notebooks
   - git+https://github.com/onedata/onedatafs-jupyter
   - git+https://github.com/enolfc/onedatafs
