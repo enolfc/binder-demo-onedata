@@ -1,0 +1,8 @@
+xarray
+numpy
+scipy
+matplotlib
+git+https://github.com/enolfc/egi-hub-addons
+git+https://github.com/enolfc/fs-onedatafs@notebooks
+git+https://github.com/onedata/onedatafs-jupyter
+git+https://github.com/enolfc/onedatafs
