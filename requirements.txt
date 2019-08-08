@@ -1,6 +1,0 @@
-xarray
-numpy
-scipy
-cartopy
-matplotlib
-git+https://github.com/EGI-Foundation/egi-notebooks-addons
