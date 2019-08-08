@@ -3,4 +3,4 @@ numpy
 scipy
 cartopy
 matplotlib
-git+https://github.com/EGI-Founcation/egi-notebooks-addons
+git+https://github.com/EGI-Foundation/egi-notebooks-addons
